@@ -3,7 +3,7 @@
 🎓 Computer Science Student  
 💻 Skills: Java, Python, HTML, CSS, MySQL  
 🚀 Interested in Software Development & AI  
-📫 Email: truptichavan@email.com  
+📫 Email: truptimchavan@email.com  
 
 ### 🔧 Technologies
 - Java
@@ -12,6 +12,5 @@
 - Web Development
 
 ### 📌 Projects
-- Online Feedback System
-- College Information System
+
 # Trupti-Chavan
